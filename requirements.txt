@@ -1,1 +1,1 @@
-pandas
+spacy==3.0.6
